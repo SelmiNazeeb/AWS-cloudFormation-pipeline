@@ -76,4 +76,4 @@ Resources:
           CidrIp: 0.0.0.0/0
       Tags:
         - Key: Name
-          Value: "WebSecurityGroup"
+          Value: "WebSecurityGroup1"
